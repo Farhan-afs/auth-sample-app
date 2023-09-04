@@ -1,4 +1,4 @@
-# Express OpenID Connect Webapp Sample
+# Express App Connection
 
 This sample demonstrates authentication for an Express Node.js app. The sample quickly shows how to log in, log out, and view profile information of the logged-in user.
 
